@@ -1,0 +1,6 @@
+framework module Pods_CineFlix {
+  umbrella header "Pods-CineFlix-umbrella.h"
+
+  export *
+  module * { export * }
+}
