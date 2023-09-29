@@ -19,10 +19,3 @@ The Movie DataBase API:
 ## Requirements
 - iOS 15.0+
 - Xcode 14.0+
- 
-## Installation
-1. Clone repository on your Mac
-2. Open `CineFlix.xcworkspace` file in xCode
-4. Choose your Bundle identifier
-5. Build <kbd> <br> command <br> </kbd> + <kbd> <br>R<br> </kbd>
-6. Enjoy
