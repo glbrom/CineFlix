@@ -29,3 +29,7 @@ class IntroModuleHostingViewController: UIHostingController<SplashScreenView> {
         super.viewDidLoad()
     }
 }
+
+#Preview {
+    IntroModuleView()
+}
